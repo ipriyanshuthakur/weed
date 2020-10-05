@@ -1,1 +1,2 @@
-Hello There Ths is my Test REpository
+Hello There !
+This is my Test Repository.
